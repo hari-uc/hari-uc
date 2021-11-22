@@ -47,7 +47,7 @@ AboutMe = {
 <div align=center>
 <h2>Social media links</h2>
   
-[![Discord](https://img.shields.io/badge/-DISCORD-informational?style=for-the-badge&logo=discord&logoColor=23272a&color=7289da)](https://discord.com/channels/@me/906862041548066878)
+[![Discord](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariuc/)
 </div>
 <div align="right">
 
