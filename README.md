@@ -2,7 +2,7 @@
 
 <h2 align="center"> Who am I? </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23909090&lines=Hi%2C+I+am+Hari;I+am+a+student programmer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23909090&lines=Hi%2C+I+am+Hari;I+am+a+student+programmer;)](https://git.io/typing-svg)
 
 ```python
 
