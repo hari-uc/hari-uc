@@ -36,6 +36,7 @@ AboutMe = {
     <img src="https://img.shields.io/badge/-vs code-2c2f33?style=for-the-badge&labelColor=2c2f33&logo=visualstudiocode&logoColor=blue">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
+    <img src="https://img.shields.io/badge/AWS-ec2-yellow-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
 </div>
 <div align="center">
     <h2>Github Profile Stats 📊</h2>    
