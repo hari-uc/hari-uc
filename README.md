@@ -1,63 +1,59 @@
-<h1 align="center"> Greetings!!</h1>
+<h2>Heyyo! I'm Hari </h2>
 
-<h2 align="center"> Who am I? </h2>
+### 👨🏻‍💻 &nbsp;About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23909090&lines=Hi%2C+I+am+Hari;I+am+a+student+programmer;)](https://git.io/typing-svg)
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
+🎓 &nbsp;I'm currently studying Master in Computer Application at the University of Madras.\
+🌱 &nbsp;I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :).\
+✉️ &nbsp;You can shoot me an email at hariuc2001@gmail.com!.
 
-```python
+<br>
 
-AboutMe = {
-
-    Name      : "Hari",
-
-    Pronouns  : "He/Him",
-
-    Languages : [
-        "Java", "HTML", "CSS", "JS"
-    ]
- }
- ```
+### 🛠 &nbsp;Tech Stack
 
 
-<div align="center">
-    <h2>Techstack <img src="https://cdn.discordapp.com/emojis/886120813969956875.png?size=100" width="30px"></h2>
-    <h4>Languages</h4>
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/-html 5-orange?style=for-the-badge&labelColor=orange&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/-css 3-blue?style=for-the-badge&labelColor=blue&logo=css3&logoColor=white"</h2>
-    <img src="https://img.shields.io/badge/-javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black">
-    <h4>Libraries and Frameworks</h4>
-    <img src="https://camo.githubusercontent.com/e263934e2ca58b1813bb30e40796d5a3f8e6f289a8b821141b59d2a446087055/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d626f6f7473747261702d3630324335303f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d363032433530266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-    <h4>Sofware and Tools</h4>
-    <img src="https://img.shields.io/badge/-git-orange?style=for-the-badge&labelColor=orange&logo=git&logoColor=black">
-    <img src="https://img.shields.io/badge/-github-whitesmoke?style=for-the-badge&labelColor=whitesmoke&logo=github&logoColor=black">
-    <img src="https://img.shields.io/badge/-vs code-2c2f33?style=for-the-badge&labelColor=2c2f33&logo=visualstudiocode&logoColor=blue">
-    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-    <img src="https://img.shields.io/badge/AWS-ec2-yellow">
-    <img src="https://img.shields.io/badge/AWS-s3-yellow">
-    <img src="https://img.shields.io/badge/ws-nginx-green">
-</div>
-<div align="center">
-    <h2>Github Profile Stats 📊</h2>    
-    <img src="https://github-readme-stats.vercel.app/api?username=hari-uc&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hari-uc&show_icons=true&hide_border=true&theme=dark" height="175px">
-    <h2>Github Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=hari-uc&theme=onedark&no-frame=true&no-bg=true&theme=discord">
-</div>
-<div align=center>
-<h2>Social media links</h2>
-  
-[![Discord](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariuc/)
-</div>
-<div align="right">
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)\
+![PostGIS](https://img.shields.io/badge/-PostGIS-05122A?style=flat&logo=PostGIS)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)&nbsp;
+![BullMQ](https://img.shields.io/badge/-BullMQ-05122A?style=flat&logo=BullMQ)&nbsp;
+![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=NGINX)&nbsp;
 
+<br>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hari-uc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hari-uc&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+<br>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="[https://hari-uc.github.io/My-website/]"><img src="https://img.shields.io/badge/-harikrishnan.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hariuc/"><img src="https://img.shields.io/badge/-Hari%20Krishna-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hariuc2001@gmail.com"><img src="https://img.shields.io/badge/-hariuc2001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+
+<div align="left">
     
-
 ![](https://komarev.com/ghpvc/?username=hari-uc&style=flat-square&color=7289da)
-
-    
 
 </div>
