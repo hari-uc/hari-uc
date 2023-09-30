@@ -46,7 +46,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="[https://hari-uc.github.io/My-website/]"><img src="https://img.shields.io/badge/-harikrishnan.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://hari-uc.github.io/My-website/"><img src="https://img.shields.io/badge/-harikrishnan.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hariuc/"><img src="https://img.shields.io/badge/-Hari%20Krishna-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:hariuc2001@gmail.com"><img src="https://img.shields.io/badge/-hariuc2001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
