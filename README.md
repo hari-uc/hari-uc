@@ -1,11 +1,5 @@
 <h2>Heyyo! I'm Hari </h2>
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying Master in Computer Application at the University of Madras.\
-🌱 &nbsp;I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :).\
-✉️ &nbsp;You can shoot me an email at hariuc2001@gmail.com!.
+I like to explore new technologies and develop software applications.
 
 <br>
 
